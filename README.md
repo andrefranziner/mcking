@@ -12,7 +12,7 @@
 	
  🛠️ Tecnologias Utilizadas
  
-       React Native: Framework para desenvolvimento de aplicativos móveis nativos.
+        React Native: Framework para desenvolvimento de aplicativos móveis nativos.
 	JavaScript/JSX: Linguagem principal utilizada no desenvolvimento.
-    Componentes Customizados: Uso de componentes como TouchableHighlight, TouchableOpacity, Picker para criar interatividade.
+        Componentes Customizados: Uso de componentes como TouchableHighlight, TouchableOpacity, Picker para criar interatividade.
 	Folhas de Estilo Separadas: Estilos organizados em arquivos .js separados.
