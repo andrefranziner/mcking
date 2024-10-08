@@ -1,7 +1,7 @@
 📱 Delivery App
 
 	Mc King é aplicativo mobile de delivery desenvolvido em React Native que permite aos usuários realizar pedidos de comida de forma prática e rápida.
-        O aplicativo oferece uma interface intuitiva, opções de personalização de pedidos e navegação simples entre as telas.
+O aplicativo oferece uma interface intuitiva, opções de personalização de pedidos e navegação simples entre as telas.
  
 ✨ Funcionalidades
 
@@ -14,6 +14,6 @@ Interface Responsiva: Design adaptável a diferentes tamanhos de tela, focado em
  🛠️ Tecnologias Utilizadas
  
         React Native: Framework para desenvolvimento de aplicativos móveis nativos.
-	JavaScript/JSX: Linguagem principal utilizada no desenvolvimento.
-        Componentes Customizados: Uso de componentes como TouchableHighlight, TouchableOpacity, Picker para criar interatividade.
-	Folhas de Estilo Separadas: Estilos organizados em arquivos .js separados.
+JavaScript/JSX: Linguagem principal utilizada no desenvolvimento.
+Componentes Customizados: Uso de componentes como TouchableHighlight, TouchableOpacity, Picker para criar interatividade.
+Folhas de Estilo Separadas: Estilos organizados em arquivos .js separados.
