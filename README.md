@@ -1,6 +1,7 @@
 📱 Delivery App
 
-	Este é um aplicativo mobile de delivery desenvolvido em React Native que permite aos usuários realizar pedidos de comida de forma prática e rápida. O aplicativo oferece uma interface intuitiva, opções de personalização de pedidos e navegação simples entre as telas.
+	Mc King é aplicativo mobile de delivery desenvolvido em React Native que permite aos usuários realizar pedidos de comida de forma prática e rápida.
+        O aplicativo oferece uma interface intuitiva, opções de personalização de pedidos e navegação simples entre as telas.
  
 ✨ Funcionalidades
 
