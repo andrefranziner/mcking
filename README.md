@@ -9,7 +9,7 @@
 	Escolha de Produtos: O usuário pode navegar e selecionar itens do cardápio.
 	Navegação Simples: Sistema de navegação implementado sem o uso de react-navigation, facilitando a transição entre telas através de eventos onPress.
 	Visualização do Pedido: Visualize o hambúrguer em tempo real
-        Interface Responsiva: Design adaptável a diferentes tamanhos de tela, focado em uma experiência fluida para o usuário.
+Interface Responsiva: Design adaptável a diferentes tamanhos de tela, focado em uma experiência fluida para o usuário.
 	
  🛠️ Tecnologias Utilizadas
  
