@@ -14,6 +14,6 @@ Interface Responsiva: Design adaptável a diferentes tamanhos de tela, focado em
  🛠️ Tecnologias Utilizadas
  
         React Native: Framework para desenvolvimento de aplicativos móveis nativos.
-JavaScript/JSX: Linguagem principal utilizada no desenvolvimento.
-Componentes Customizados: Uso de componentes como TouchableHighlight, TouchableOpacity, Picker para criar interatividade.
-Folhas de Estilo Separadas: Estilos organizados em arquivos .js separados.
+ JavaScript/JSX: Linguagem principal utilizada no desenvolvimento.
+ Componentes Customizados: Uso de componentes como TouchableHighlight, TouchableOpacity, Picker para criar interatividade.
+ Folhas de Estilo Separadas: Estilos organizados em arquivos .js separados.
